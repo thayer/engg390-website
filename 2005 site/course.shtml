@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+	<title>ENGG 390 - Course Information &amp; Tuition</title>
+</head>
+
+<body id="course">
+
+<table width="760" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tr>
+		<td colspan="2">
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="header"><a href="index.shtml"><img src="images/header.jpg"  alt="ENGG 390" border="0" height="100" width="760"></a></td>
+
+	</tr>
+</table>
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml" id="menu-course">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+ 
+		</td>
+
+		<td id="main" valign="top" width="610">
+
+<!-- START OF CONTENT AREA -->
+
+<table border="0" width="98%" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+
+
+<h1>Course Information and Tuition</h1>
+
+<h2>Course Description from Bulletin</h2>
+
+<p>An individual engineering project to be completed during any term of the final year of an M.E.M. program. The project should define a practical need and propose a means to satisfy it, display an ability to conceive and evaluate solutions, describe appropriate analytical, experimental, and economic evaluations, and provide recommendations for further action. Projects will normally either have an industrial context or will be related to a specific design objective within a research program at Thayer School.</p>
+
+<h2 class="padding">Classes &amp; Text</h2>
+
+<p>This course has no class meetings and no required texts.</p>
+
+<h2 class="padding">Official Course Registration</h2>
+
+<p>Students must register for ENGG 390 during the term in which the internship is completed.</p>
+
+<h2 class="padding">Tuition</h2>
+
+<p>Most M.E.M. students choose to work on their Master of Engineering Management Project (ENGG 390) during the summer term, but some students do ENGG 390 in other academic terms. Students must enroll for ENGG 390 in the term in which they do the work. If a student is not enrolled in any other courses while completing ENGG 390, a partial tuition charge, set at 15% of full term tuition, is assessed.</p>
+
+
+
+
+
+		</td>
+	</tr>
+</table>
+
+<!-- END OF CONTENT AREA -->
+
+
+<!-- START OF FOOTER -->
+
+
+<br>
+
+
+
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>

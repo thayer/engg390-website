@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+	<title>Engineering 390 - Master of Engineering Management Project</title>
+</head>
+
+<body id="home">
+
+<table width="760" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tr>
+		<td colspan="2">
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="header"><a href="index.shtml"><img src="images/header.jpg"  alt="ENGG 390" border="0" height="100" width="760"></a></td>
+
+	</tr>
+</table>
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml" id="menu-home">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+ 
+		</td>
+
+		<td id="main" valign="top" width="610">
+
+<!-- START OF CONTENT AREA -->
+
+<table border="0" width="98%" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+
+
+<h1>Engineering 390 - Master of Engineering Management Project</h1>
+
+<p>ENGG 390 is a required course in the M.E.M. program, during which students complete an individual project for a corporate sponsor.  There are no class meetings, and the intent is to give the students authentic experience working on real-world projects.  Sponsors benefit from the hard work, expertise, and outside perspective of the students. 
+</p>
+
+<ul class="spaced">
+<li><a href="requirements.shtml">Basic project requirements</a></li>
+<li><a href="examples.shtml">Examples of past projects</a></li>
+<li><a href="confidentiality.shtml">Confidentiality and intellectual property</a></li>
+<li><a href="contact.shtml">People to contact for more information</a></li>
+</UL>
+ 
+<h2 class="padding">For Students</h2>
+
+<ul class="spaced">
+	<li><a href="securing.shtml">Securing a project</a></li>
+	<li><a href="dates.shtml">Important dates</a></li>
+	<li><a href="course.shtml">Course information &amp; tuition</a></li>
+	<li><a href="required.shtml">Required reports &amp; presentations</a></li>
+	<li><a href="advisors.shtml">Faculty advisors</a></li>
+	<li><a href="grading.shtml">Grading</a></li>
+	<li><a href="documents.shtml">PDFs of important documents</a></li>
+</ul>
+
+<H2 class="padding">For Sponsors</H2>
+
+<ul class="spaced">
+	<li>Printable 390 Overview (<a href="mem-info.pdf">PDF file</a>)</li>
+	<li><a href="offering.shtml">Offering a project</a></li>
+	<li><a href="benefits.shtml">Benefits of sponsorship</a></li>
+</ul>
+
+
+
+
+
+		</td>
+	</tr>
+</table>
+
+<!-- END OF CONTENT AREA -->
+
+
+<!-- START OF FOOTER -->
+
+
+<br>
+
+
+
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>

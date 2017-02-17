@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+	<title>ENGG 390 - Examples of Past Projects</title>
+</head>
+
+<body id="examples">
+
+<table width="760" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tr>
+		<td colspan="2">
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="header"><a href="index.shtml"><img src="images/header.jpg"  alt="ENGG 390" border="0" height="100" width="760"></a></td>
+
+	</tr>
+</table>
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml" id="menu-examples">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+ 
+		</td>
+
+		<td id="main" valign="top" width="610">
+
+<!-- START OF CONTENT AREA -->
+
+<table border="0" width="98%" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+
+
+<h1>Examples of Past Projects</h1>
+
+<p>
+Internship/project placement information:</p>
+
+<ul>
+	<li><a href="08_09_Internship_Placement.pdf">M.E.M. Class of 2008-2009 (PDF)</a></li>
+	<li><a href="07_08_Internship_Placement.pdf">M.E.M. Class of 2007-2008 (PDF)</a></li>
+	<li><a href="06_07_Internship_Placement.pdf">M.E.M. Class of 2006-2007 (PDF)</a></li>
+</ul>
+<br>
+
+
+<div class="company">Appian Corporation</div>
+<div class="project-title">Business Process Model Implementation</div>
+
+<p>Using Appian's Enterprise intranet suite, I helped develop a streamlined workflow for employees to request vacation and sick days.  Combining a SQL backend and Appian's proprietary Business Process Model engine, the time off request process provides real-time reporting, data integrity measures, multi-tiered security and a user-friendly interface for all of Appian's employees to request time off.
+</p>
+
+<div class="company">Apple Computers, Inc. </div>
+<div class="project-title">A Fresh Look at Resource Planning</div>
+
+<p>Apple Computers, Inc. has recently been challenged regarding resource planning and allocations in their Hardware Division. During my summer internship, I investigated the current resource planning methods at Apple by interviewing key participants in the resource planning process and identifying key issues around resource planning that should be addressed with the implemented solution. I researched state of the art infrastructural systems and evaluated them against specifications as well as manager input, and I modeled with screen-shots the optimal integrated resource planning solution. I evaluated the fit of the resource planning solution by re-visiting the key issues I identified through my interviews. The final model I developed gave Apple management a view of how the optimal resource allocation process would look once the chosen systems are put in place over the next two years.
+</p>
+
+<div class="company">BP</div>
+<div class="project-title">Treatment Options for a Contaminated Site</div>
+
+<p>The Tuboscope contaminated waste site is located on state owned land at the Prudhoe Bay oilfield on the North Slope of Alaska. Northern Alaska is characterized by tundra and permafrost soil conditions. In the summer, the permafrost will melt between 18 inches and 5 feet; as a result, all buildings and roads are built on 5 foot thick gravel pads that counter the instability of the seasonal freezing and thawing of the tundra. In 1982, the Tuboscope warehouse, a building located on a gravel pad known as the Base Operating Camp (BOC) burned down resulting in contamination of the site. Pipe cleaning took place in the Tuboscope warehouse and chlorinated solvents were used to clean the pipes. 'Pipe dope', a lead based grease, was used to grease the pipes. The building had no floor, only the gravel pad. As a result of the fire, the Tuboscope site became listed as a contaminated site. This project evaluates the site data, and then formulates a plan of treatment for the site based on analysis of available treatment options.
+</p>
+
+<div class="company">Deutsche Bank, Singapore Global Markets Division </div>
+<div class="project-title">Managing Risk for a Portfolio of Fixed Income Securities</div>
+
+<p>The objective of the project is to model a portfolio of fixed income securities for variety of clients. The clients are large corporations. This basically involves assessing the risk as well as sensitivity in terms of currency risk, interest rate risk and credit risk. The model will then be used to make recommendations to the clients in terms of which instruments should be used in order to neutralize or improve the risk profile of the portfolio. This will include possible hedging solutions.
+</p>
+
+<div class="company">Frorer Partners, LP</div>
+<div class="project-title">Marketing Campaign for a Financial Services Company</div>
+
+<p>During the spring term of 2004 I worked for Frorer Partners, LP. Frorer Partners is an investment company under the 3C1 classification of the Securities and Exchange Commission, which is commonly known as a hedge fund. Hedge funds are extremely analytical companies that focus on both fundamental strengths of investments as well as technical performance in the market. Hedge funds are relatively unregulated by the SEC and therefore have freedom to make almost any investments that the General Partner deems prudent. They are absolute return oriented, and success is measured in dollars and percentage points more than by any other metric.
+</p>
+
+<p>The project that I focused on during the course of my internship was the creation of a marketing database, which is the first step in what will become a major marketing push over the next few months (conditions permitting). Marketing is an extremely important part of the money management business, as the GP's compensation is directly proportional to the Fund's assets under management as well as absolute performance.
+</p>
+
+<div class="company">GE Healthcare</div>
+<div class="project-title">Consumption-Based Replenishment at GE Healthcare - Information Technologies: The Splicing Project</div>
+
+<p>For my ENGG 390 internship, I worked at the Information Technologies division of GE Healthcare in Milwaukee, Wisconsin.  I was part of the lean manufacturing team and my focus was consumption-based replenishment.  I worked in the setup area of the manufacturing floor, so I dealt with what went on before raw materials were sent out to the production lines.  My job was to improve and standardize the process of splicing reels of electronic components.  
+</p>
+
+<div class="company">Harley-Davidson Motor Company </div>
+<div class="project-title">Project Racing</div>
+
+<p>For ENGG 390, I was able to attain an internship with Harley-Davidson Motor Company in Milwaukee, Wisconsin working in their Product Development Center.  My role was to help facilitate the development of new Sportster motorcycles for future model years.  My main project, code named Racing, was a quick to market project that began on June 16th, 2004 and is scheduled to start production on January 10th, 2005.  With such a short timeline, the project was constantly under timing pressures; however, since what the market demanded in this new motorcycle is really a "parts book" exercise, the limited scope ensured that proper development and testing were achieved.  My work focused on the appropriate content for the project, as determined by marketing and styling, and developing a business case for review by the Product Planning Committee.  The business case is a collection of reports from different stakeholders in the project along with analysis of these reports to determine project feasibility and its impact to the company.
+</p>
+
+<div class="company">Microsoft Corporation</div>
+<div class="project-title">Report and Form Authoring in Business Intelligence</div>
+
+<p>OLAP (On-line Analytical Processing) and Excel cater to the needs of Business users for their data storage and analysis. But there are some inherent differences between the two. OLAP is a very efficient way of managing and analyzing data but most of the interfaces available in the market place seem to be complex for the average business user. On the other hand Excel is a very popular application with the Business users but the native features are not enough to cater to today's Business user's need of analyzing complex and huge data. Thus the need is to create user experience inside of Excel that would enable him to manage OLAP through a very user-friendly environment (Excel) thus combining the power of OLAP and Usability of Excel. This will be accomplished with the use of a layer of abstraction between the Excel client and the OLAP cube(s). Excel users will interface with cubes and dimensions which will have some built in intelligence. The Report and Form Authoring is a part of the Client experience in a Microsoft Business Intelligence product. 
+</p>
+
+
+
+
+		</td>
+	</tr>
+</table>
+
+<!-- END OF CONTENT AREA -->
+
+
+<!-- START OF FOOTER -->
+
+
+<br>
+
+
+
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>

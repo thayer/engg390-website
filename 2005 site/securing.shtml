@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+	<title>ENGG 390 - Securing a Project</title>
+</head>
+
+<body id="securing">
+
+<table width="760" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tr>
+		<td colspan="2">
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="header"><a href="index.shtml"><img src="images/header.jpg"  alt="ENGG 390" border="0" height="100" width="760"></a></td>
+
+	</tr>
+</table>
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class=sidebar valign=top width=150>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml" id="menu-securing">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+ 
+		</td>
+
+		<td id="main" valign="top" width="610">
+
+<!-- START OF CONTENT AREA -->
+
+<table border="0" width="98%" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+
+
+<h1>Securing a Project</h1>
+
+<h2>How do I go about finding and securing a project?</h2>
+
+<p>While Thayer School has many resources to help students, it is up to the student to find a suitable project.  Industrial internships, personal interest, family connections, experiences in previous design courses, advice of friends, or other sources, may suggest possibilities.   Specific resources available at Thayer School to help you are:
+</p>
+
+<ul class="spaced">
+	<li>Ross Gortner (<a href="mailto:Ross.Gortner&#64;&#68;artmouth.edu">Ross.Gortner&#64;&#68;artmouth.edu</a>) can provide a list of the sponsors for past M.E.M. projects, as well as information on contacting the students who did the projects</li>
+	<li><a href="http://engineering.dartmouth.edu/career/about.html">Thayer School Career Services</a> - especially if you hope to complete your project as part of an internship</li>
+	<li>"Engineering - MEM" Blitzmail Bulletin (with up-to-date ENGG 390 Project/Internship Postings)</li>
+	<li><a href="resumebook.shtml">On-line MEM Internship Resume Book</a> (for employers to look at your resume)</li>
+	<li>Dartmouth alumni network</li>
+	<li>Professors in fields of interest to you</li>
+</ul>
+
+
+<h2 class="padding">Is there a deadline for securing a project?</H2>
+
+<p>Projects should be identified and chosen during the term before the work is to be performed.  Preliminary discussions with the course instructor about the suitability and scope of possible projects are often useful.
+</p>
+
+
+
+
+		</td>
+	</tr>
+</table>
+
+<!-- END OF CONTENT AREA -->
+
+
+<!-- START OF FOOTER -->
+
+
+<br>
+
+
+
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>

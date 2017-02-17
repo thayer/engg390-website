@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+	<title>ENGG 390 - Examples of Past Projects</title>
+</head>
+
+<body id="examples">
+
+<table width="760" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tr>
+		<td colspan="2">
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="header"><a href="index.shtml"><img src="images/header.jpg"  alt="ENGG 390" border="0" height="100" width="760"></a></td>
+
+	</tr>
+</table>
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		 
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml" id="menu-examples">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+ 
+		</td>
+
+		<td id="main" valign="top" width="610">
+
+<!-- START OF CONTENT AREA -->
+
+<table border="0" width="98%" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+
+
+<h1>Examples of Past Projects</h1>
+
+<h2>2011 Projects</h2>
+<p>View <a href="http://maps.google.com/maps/ms?msid=218191146112847689880.0004b01f4d834ad5c242c&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;vpsrc=0&amp;ll=41.244772,-0.351562&amp;spn=101.52484,175.429688&amp;z=1&amp;source=embed">MEM 2011 internships</a> in a larger map and see a list of companies involved.</p>
+<iframe width="500" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msid=218191146112847689880.0004b01f4d834ad5c242c&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;vpsrc=0&amp;ll=41.244772,-0.351562&amp;spn=101.52484,175.429688&amp;z=1&amp;output=embed"></iframe>
+
+<h2>2010 Projects</h2>
+<p>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.0004937666fcc895a0f5f&amp;ll=32.700492,-138.983054&amp;spn=90,139.21875&amp;z=1&amp;source=embed">MEM 2010 internships</a> in a larger map and see a list of companies involved.</p>
+<iframe width="500" height="412" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.0004937666fcc895a0f5f&amp;ll=32.700492,-138.983054&amp;spn=90,139.21875&amp;z=1&amp;output=embed"></iframe>
+
+<h2 style="margin-top: 25px">2009 Projects</h2>
+<p>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.00048fd5e266bef3bb7fd&amp;ll=31.102499,-0.353473&amp;spn=90,139.21875&amp;z=1&amp;source=embed">MEM 2009 internships</a> in a larger map and see a list of companies involved.</p>
+<iframe width="500" height="412" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.00048fd5e266bef3bb7fd&amp;ll=31.102499,-0.353473&amp;spn=90,139.21875&amp;z=1&amp;output=embed"></iframe>
+
+<h2 style="margin-top: 25px">2008 Projects</h2>
+<p>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.00048fd5e1c84c34be299&amp;ll=25.152564,-2.999356&amp;spn=54.446071,-121.206489&amp;z=1&amp;source=embed">MEM 2008 Internships</a> in a larger map and see a list of companies involved.</p>
+<iframe width="500" height="412" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.00048fd5e1c84c34be299&amp;ll=25.152564,-2.999356&amp;spn=54.446071,-121.206489&amp;z=1&amp;output=embed"></iframe>
+
+<h2 style="margin-top: 25px">2007 Projects</h2>
+<p>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.00048fd5da46d0249af78&amp;ll=25.732908,-0.733829&amp;spn=90,139.21875&amp;z=1&amp;source=embed">MEM 2007 Internships</a> in a larger map and see a list of companies involved.</p>
+<iframe width="500" height="412" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=115665281334921397895.00048fd5da46d0249af78&amp;ll=25.732908,-0.733829&amp;spn=90,139.21875&amp;z=1&amp;output=embed"></iframe>
+
+		</td>
+	</tr>
+</table>
+
+<!-- END OF CONTENT AREA -->
+
+
+<!-- START OF FOOTER -->
+
+
+<br>
+
+
+
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>

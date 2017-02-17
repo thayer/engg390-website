@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+	<title>ENGG 390 - Basic Project Requirements</title>
+</head>
+
+<body id="requirements">
+
+<table width="760" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tr>
+		<td colspan="2">
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="header"><a href="index.shtml"><img src="images/header.jpg"  alt="ENGG 390" border="0" height="100" width="760"></a></td>
+
+	</tr>
+</table>
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml" id="menu-requirements">Requirements</a></li>
+              <li><a href="examples.shtml">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+ 
+		</td>
+
+		<td id="main" valign="top" width="610">
+
+<!-- START OF CONTENT AREA -->
+
+<table border="0" width="98%" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+
+
+<h1>Basic Project Requirements</h1>
+
+<h2>Sponsor</h2>
+<p>Each project should be sponsored by a company, organization, or individual in a professional field of interest to the student.  Professional fields may include engineering, management, marketing, consulting, finance, etc.  Academic research projects, where there is no professional/corporate sponsor, are not acceptable.
+</p>
+
+<h2 class="padding">Timing</h2>
+<p>While most MEM students choose to do their project over the summer, this is not a requirement.  Students may undertake their project during any academic term.
+</p>
+
+<h2 class="padding">Projects within Internships</h2>
+<p>Most students work on their MEM project as part of a paid internship, typically over the summer.  Many students find the experience of the internship valuable, and also a good stepping-stone to a full-time position.  If an internship is undertaken, the student must have responsibility for a project, or a portion of a project, as part of the internship.  This project is what the student will be required to report on academically.  In these cases, the student is employed by the sponsor. If a project is outside of an internship, students may or may not be paid by the sponsor for their work.  Projects outside of internships are most common when a student is based at Thayer School working on a project in addition to taking some classes.  
+</p>
+
+<h2 class="padding">Relationship between Sponsor, Student, and Thayer School</h2>
+<p>Thayer School does not enter into a formal relationship with project sponsors, and arrangements for the project or internship employment are at the discretion of the student and sponsor. 
+</p>
+
+<h2 class="padding">Project Objective &amp; Content</h2>
+<p>The purpose of this course is for the student to learn from the experience of completing an engineering design project on their own, all the way from locating a suitable problem to delivering a useful contribution to its solution.  Because each project is different, it is not possible to specify in detail just how to go about any particular project.  Students will be judged by results.  However, there are some common features of successful projects that may serve as guidelines.  Successful projects allow a student to:</p>
+
+<ol>
+<li class="padding"><b>Apply engineering problem-solving skills to a real-world project</b>
+<br>Some projects will involve creating a device or process that will satisfy a specific need, including economic factors.  Others may involve a strategy, policy, or an emphasis on management.  Whatever the appropriate blend of activities and objectives, students must demonstrate the ability to use an engineering problem-solving approach.  That is, the ability to define a problem, derive specifications for a successful solution, generate and evaluate appropriate alternatives, produce a solution in an analytically sound manner, and show that it meets suitable measures of success.</li>
+
+<li class="padding"><b>Manage a real-world project</b>
+<br>The student should be responsible for a project, or one portion of a larger project.  With guidance from the sponsor, the student should develop the project timeline, and have general oversight for the project.  Students are not required to be in a management role over other employees.</li>
+
+<li class="padding"><b>Work for a sponsor in a professional field that interests the student</b></li>
+</ol>
+
+<h2 class="padding">Project Length</h2>
+<p>The typical project demands 30 - 100% of a student's time during a 12-week full-time internship.
+</p>
+
+<h2 class="padding">Project Approval</h2>
+<p>The course instructor is the ultimate authority on what is allowed for a project. Before a student commits to a particular project, we strongly recommend they first consult the course professor.
+</p>
+
+<p>For more information, see:</p>
+
+<ul class="spaced">
+<li>M.E.M. internship/project information (<a href="mem-info.pdf">PDF file</a>)</li>
+<li>M.E.M. project guidelines (<a href="mem-guidelines.pdf">PDF file</a>)</li>
+</ul>
+
+
+		</td>
+	</tr>
+</table>
+
+<!-- END OF CONTENT AREA -->
+
+
+<!-- START OF FOOTER -->
+
+
+<br>
+
+
+
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>

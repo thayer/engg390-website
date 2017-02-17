@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+  <title>ENGG 390 - Offering a Project</title>
+</head>
+<body id="offering">
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+ width="760">
+  <tbody>
+    <tr>
+      <td colspan="2">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody>
+          <tr>
+            <td class="header"><a href="index.shtml"><img
+ src="images/header.jpg" alt="ENGG 390" border="0" height="100"
+ width="760"></a></td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td class="sidebar" valign="top"><!-- ADD LINKS TO SIDEBAR -->
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml" id="menu-offering">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+      <td id="main" valign="top" width="610"><!-- START OF CONTENT AREA -->
+      <table align="center" border="0" cellpadding="0" cellspacing="0"
+ width="98%">
+        <tbody>
+          <tr>
+            <td>
+            <h1>Offering a Project</h1>
+            <p>The support of industry professionals, especially
+through project sponsorship, greatly enhances the educational
+experience for M.E.M. students. If you are interested in sponsoring an M.E.M.
+internship/project, please contact one of the program directors: Bob
+Graves (<a href="MAILTO:Robert.J.Graves@Dartmouth.edu">robert.j.graves@dartmouth.edu</a>,
+603-646-6475) or Ken Baker (<a
+ href="mailto:Kenneth.R.Baker@Dartmouth.edu">ken.baker@dartmouth.edu</a>,
+603-646-2064). </p>
+            <p>Typical process for offering a project/internship:</p>
+            <ul class="spaced">
+              <li>Correspond with the M.E.M. Program Office to make sure
+your internship/project seems suitable for ENGG 390.</li>
+              <li>Obtain details on accessing the M.E.M. Program's online
+internship resume book, which contains information on students seeking
+M.E.M. internships/projects. There you will find each student's resume,
+areas of interest, location preference, expected graduation date, and
+statement of desired internship/project topic.</li>
+              <li>Proactively contact any students you identify from
+the online resume book who would be a good fit for your project.</li>
+              <li>Email one of the directors a short description of
+your project, which will be posted for M.E.M. students.</li>
+              <li>Review resumes and cover letters of students
+interested in your internship/project (which will be collected and sent
+to you).</li>
+              <li>Interview students (either at Dartmouth, at your
+location, or by phone).</li>
+              <li>Extend an offer to the student who would be the best
+fit for your internship/project.</li>
+            </ul>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+<!-- END OF CONTENT AREA -->
+<!-- START OF FOOTER --><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+</body>
+</html>

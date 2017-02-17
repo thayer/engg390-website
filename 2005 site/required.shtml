@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+  <title>ENGG 390 - Required Reports &amp; Presentations</title>
+</head>
+<body id="required">
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+ width="760">
+  <tbody>
+    <tr>
+      <td colspan="2">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody>
+          <tr>
+            <td class="header"><a href="index.shtml"><img
+ src="images/header.jpg" alt="ENGG 390" border="0" height="100"
+ width="760"></a></td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td class="sidebar" valign="top"><!-- ADD LINKS TO SIDEBAR -->
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml" id="menu-required">Required Reports &amp; Presentations</a></li>
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+      <td id="main" valign="top" width="610"><!-- START OF CONTENT AREA -->
+      <table align="center" border="0" cellpadding="0" cellspacing="0"
+ width="98%">
+        <tbody>
+          <tr>
+            <td>
+            <h1>Required Reports &amp; Presentations</h1>
+            <p>An important part of the ENGG 390 experience is
+reporting orally and in writing on your work. This document explains
+the oral presentations and written reports you will be required to
+make. The class has a schedule for delivering Proposals and Final
+Presentations. Final Presentations are made before
+a review board of professors and industry professionals. </p>
+            <h2 class="padding">Example Schedule</h2>
+            <ul>
+              <li>Pre-proposal in the term prior to internship/project.</li>
+              <li>Full Proposal after 1-2 weeks of the internship.</li>
+              <li>Two Progress Reports during the internship, emailed
+to the instructors.  Additional Progress Reports may be needed depending on the length of the internship.</li>
+              <li>Electronic copy of the Final Report, Project Abstract, Project Executive Summary emailed to M.E.M. Assistant Director approximately 2 weeks before fall term.</li>
+              <li>At least one practice presentation shortly before the
+Final Presentation.</li>
+              <li>Final Presentation and Hard Copy Final Report at the beginning of the
+term following the internship.<br>
+              </li>
+            </ul>
+            <h2 class="padding">Pre-proposal</h2>
+            <p><b>What?</b> The student must meet with one of the
+instructors to discuss their internship/project and provide a one-page
+description of their internship/project.<br>
+            </p>
+            <p><b>When?</b> During the term before the
+project/internship is undertaken</p>
+            <h2 class="padding">Proposal</h2>
+            <p><b>What?</b> A written report. Proposals usually contain an agreement of the
+sponsor to support the work. The substance of the proposal includes: </p>
+            <ul>
+              <li>a definition of the problem</li>
+              <li>quantitative specifications describing the functions
+to be performed</li>
+              <li>a description of the design approach</li>
+              <li>a timeline of activities</li>
+              <li>a statement of expected results and deliverables</li>
+              <li>measures of success</li>
+            </ul>
+            <p>and any other information that can help assess the
+viability of the project.</p>
+            <p><b>When?</b> One to two weeks after beginning your internship.  The Proposal should be emailed directly to one of the course instructors.</p>
+
+            <h2 class="padding">1st and 2nd Progress Reports</h2>
+            <p><b>What?</b> Written reports submitted to one of the
+instructors (email is acceptable). Typically two progress reports are made
+during the course of the work. If there are difficulties, uncertainties
+or great successes, either anticipated or encountered, it may be
+advisable to schedule additional progress reports. </p>
+            <p>The first progress report usually contains a
+reassessment of the problem and the approach being taken in the light
+of experience. It should establish that the work is on track, the
+objectives are clear, and that there is reasonable expectation of
+success. Any difficulties, limitations, or changes in scope should be
+identified at this stage. </p>
+            <p>By the second progress report, enough results should
+have been achieved to anticipate the end of the project with some
+confidence. You should be able to describe what needs to be done to
+finish the work. </p>
+            
+            <p><b>When?</b> On dates specified in your project timeline.</p>
+            <h2 class="padding">Electronic Final Report, Abstract, Executive Summary</h2>
+
+<p><b>What?</b> The written report should be a quality document that will impress the sponsor, the advisor, and the course instructor(s). It should clearly describe how the results meet the objectives that were defined at the start of the work. You must also submit to the Registrar an electronic copy of your abstract and a project form. 
+</p>
+<p><b>When?</b> All three documents should be submitted by email to the M.E.M. Assistant Director approximately one week prior to the beginning of the classes (see <a href="dates.shtml">Important Dates</a>).   The course instructor and your faculty advisor should also receive a copy of the Electronic Final Report at this time.
+</p>
+            <h2 class="padding">Hard Copy Final Report and Oral Presentation</h2>
+            <p><b>What?</b> You will need to produce five hard copies of your Final Report.  Three will be handed in to the M.E.M. Program Assistant Director (M.E.M. Program Copy, Course Instructor, Thayer Registrar) and two you are responsible for getting to your faculty advisor and corporate sponsor. </p>
+
+<p>The Oral Presentation is a 30 minute presentation in front of a review board comprised of faculty and industry experts.  Following the presentation there will be a 20 minute Q&amp;A section. The sponsor should be invited to attend the oral presentation and comment on how well the results meet his/her needs.</p>
+            <p><b>When?</b> The hardcopies are typically due the first day of classes following the term in which you completed the internship.  Oral presentation are typically scheduled during the first two weeks of school follow the term in which you completed your internship.</p>
+            <p><b>How will I be evaluated?</b> </p>
+            <ul>
+            <li><a href="mem-390-final-presentation.pdf">ENGG 390 Final Oral Presentation Evaluation (PDF)</a></li>
+<li><a href="mem-390-final-report.pdf">ENGG 390 Final Written Report Evaluation (PDF)</a></li>
+</ul>
+            <p>The instructors will take into account the evaluations of the review board members and your faculty advisor when giving a grade. The instructors will additionally consider written feedback provided by your sponsor.</p>
+            <h2 class="padding">Sponsor Evaluation</h2>
+            <p>At the conclusion of the project, the student should ask
+their sponsor to send a written evaluation of their work to one of the
+instructors. The sponsor can fill out the <a
+ href="mem-390-final-presentation.pdf">sponsor evaluation form (PDF)</a> and/or send a free-form
+evaluation in the form of a letter. </p>
+            <br>
+<!--            <p>For a PDF version of much of this information see <a href="mem-390-require.pdf">ENGG
+390 Presentation and Report Requirements (PDF)</a> </p>-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+<!-- END OF CONTENT AREA -->
+<!-- START OF FOOTER --><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+</body>
+</html>

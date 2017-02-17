@@ -1,0 +1,187 @@
+body {
+	background-color: #ccc;
+	margin-top: 0.5em;
+	margin-left: 0em;
+	font-size: 0.83em;
+}
+
+
+h1 {
+	font-size: 1.7em; 
+	color: #039; 
+	font-weight: bold; 
+	font-family: Arial, Helvetica, sans-serif; 
+	padding-bottom: 10px; 
+	border-bottom: 2px solid #f93; 
+	margin-bottom: 30px;
+}
+
+h2, h3, h4 {
+	color: #000; 
+	font-weight: bold; 
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+h2 { 
+	font-size: 1.2em; 
+}
+
+h2.padding {
+	padding-top: 20px;
+}
+
+h3 { 
+	font-size: 1.1em; 
+}
+
+h4 { 
+	font-size: 1em; 
+}
+
+td { 
+	font-size: 0.83em; 
+	color: #000;  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+td.header {
+	border-top: solid 3px #336;
+	border-right: solid 3px #336;
+	border-left: solid 3px #336;
+}
+
+td.sidebar {
+	background-color: #f93;
+	width: 150px;
+	padding: 3px;
+	border: solid 3px #336;
+}
+
+#menu {
+	width:150px;
+}
+
+p.sidebar-header{
+	font-size: 1.1em;
+	border: solid 1px #039;
+	margin: 3px 0;
+	margin-top: 10px;
+	padding: 5px 10px;
+	background:#36f;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	color: #fff;
+}
+
+
+#main {
+	background-color: #ffffff;
+	padding: 30px;
+	width: 610px;
+	border-top: solid 3px #336;
+	border-right: solid 3px #336;
+	border-bottom: solid 3px #336;
+}
+
+#main a:link { color: #36f; }
+
+#main a:visited { color: #336; }
+
+#main a:hover
+{
+	color: #336;
+	background-color: #ccc;
+}
+
+#main ul.spaced {
+	line-height: 1.5;
+}
+
+#main li.padding {
+	padding-bottom: 10px;
+}
+
+#main .company {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 1.1em;
+	padding-top: 10px;
+}
+
+#main .project-title {
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 1.1em;
+}
+
+#main td.table-header {
+	text-align: center;
+	font-weight: bold;
+}
+
+#main ul.required {
+	padding-left:10px;
+	margin-left:10px;
+}
+
+
+#menu ul {
+	list-style-type: none;
+	margin: 2px;
+	padding: 3px;
+	font-size: 0.9em;
+}
+
+#menu a  {
+	display: block;
+	margin: 3px 0;
+	padding: 3px 5px;
+	text-decoration: none;
+	color: #039;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	width: 130px;
+}
+
+
+#menu a:hover  {
+	display: block;
+	margin: 3px 0;
+	padding: 2px 5px;
+	text-decoration: none;
+	background:#039;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	width: 130px;
+	color: #ff3;
+	border-bottom: solid 1px #ff3;
+	border-top: solid 1px #ff3;
+}
+
+#home a#menu-home, 
+#requirements a#menu-requirements, 
+#examples a#menu-examples,
+#confidentiality a#menu-confidentiality, 
+#contact a#menu-contact, 
+#securing a#menu-securing, 
+#dates a#menu-dates,
+#course a#menu-course,
+#required a#menu-required, 
+#advisors a#menu-advisors,
+#grading a#menu-grading,
+#documents a#menu-documents,
+#offering a#menu-offering, 
+#benefits a#menu-benefits
+
+ {
+	padding: 2px 5px;
+	background:#039;
+	color: #ff3;
+	border-bottom: solid 1px #ff3;
+	border-top: solid 1px #ff3;
+}
+
+p.indent {
+	margin-left: 25px;
+}
+

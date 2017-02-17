@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+	<link href="style.css" rel="styleSheet" type="text/css" media="all">
+	<link href="print.css" rel="stylesheet" type="text/css" media="print">
+	<title>ENGG 390 - On-line MEM Internship Resume Book</title>
+</head>
+
+<body>
+
+<table width="760" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tr>
+		<td colspan="2">
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="header"><a href="index.shtml"><img src="images/header.jpg"  alt="ENGG 390" border="0" height="100" width="760"></a></td>
+
+	</tr>
+</table>
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+      <table border="0" cellpadding="0" cellspacing="0" width="150">
+        <tbody>
+          <tr>
+            <td>
+            <div id="menu">
+            <ul>
+              <li><a href="index.shtml">Home</a></li>
+              <li><a href="requirements.shtml">Requirements</a></li>
+              <li><a href="examples.shtml">Examples</a></li>
+              <li><a href="confidentiality.shtml">Confidentiality &amp; IP</a></li>
+              <li><a href="contact.shtml">Contact Us</a></li>
+            </ul>
+            <p class="sidebar-header">For Students</p>
+            <ul>
+              <li><a href="securing.shtml">Securing a Project</a></li>
+              <li><a href="dates.shtml">Important Dates</a></li>
+              <li><a href="course.shtml">Course Information &amp; Tuition</a></li>
+              <li><a href="required.shtml">Required Reports &amp; Presentations</a></li> 
+              <li><a href="advisors.shtml">Faculty Advisors</a></li>
+              <li><a href="grading.shtml">Grading</a></li>
+              <li><a href="documents.shtml">Important Documents</a></li>
+            </ul>
+            <p class="sidebar-header">For Sponsors</p>
+            <ul>
+              <li><a href="mem-info.pdf">Printable 390 Overview (PDF)</a></li>
+              <li><a href="offering.shtml">Offering a Project</a></li>
+              <li><a href="benefits.shtml">Sponsorship Benefits</a></li>
+            </ul>
+            </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+ 
+		</td>
+
+		<td id="main" valign="top" width="610">
+
+<!-- START OF CONTENT AREA -->
+
+<table border="0" width="98%" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+
+
+<h1>On-line MEM Internship Resume Book</h1>
+
+<p>Students who are seeking an ENGG 390 internship/project for summer 2009, 
+and who will graduate from the MEM program by June 2010, may be included in 
+this resume book.  The book is password protected, and access is given only to 
+members of the MEM Corporate Collaboration Council and employers who call 
+specifically interested in MEM students for internships this summer.
+</p>
+
+<p>If you are not yet included, and wish to be, email to Robert Graves 
+(<a href="MAILTO:Robert.J.Graves&#64;&#68;artmouth.edu">Robert.J.Graves&#64;&#68;artmouth.edu</a>) 
+and Engineering Career Services 
+(<a href="MAILTO:Engineering.Career.Services&#64;&#68;artmouth.EDU">Engineering.Career.Services&#64;&#68;artmouth.EDU</a>) the following:
+</p>
+
+<ol>
+<li class="padding">Please include me as seeking the following type of internship (choose only 1):
+<ul>
+	<li>business</li>
+	<li>combination business &amp; engineering</li>
+	<li>engineering</li>
+</ul>
+
+</li>
+
+	<li class="padding">Specific areas of interest</li>
+	<li class="padding">Preferred location</li>
+	<li class="padding">Term seeking internship</li>
+	<li class="padding">Expected graduation date</li>
+
+	<li class="padding">A short statement describing what you are looking for in an internship (this should be just a few sentences and will be posted exactly how you write it)</li>
+
+	<li class="padding">Your resume</li>
+</ol>
+
+
+
+
+
+		</td>
+	</tr>
+</table>
+
+<!-- END OF CONTENT AREA -->
+
+
+<!-- START OF FOOTER -->
+
+
+<br>
+
+
+
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>
